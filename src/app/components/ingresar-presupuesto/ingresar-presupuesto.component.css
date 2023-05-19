@@ -1,0 +1,13 @@
+input{
+    text-align: center;
+}
+
+button{
+    width: 100%;
+    background-color:#CFDEF3 ;
+}
+
+
+button:hover {
+    background-color: #E0EAFC;
+}

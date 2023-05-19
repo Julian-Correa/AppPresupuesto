@@ -1,0 +1,12 @@
+button{
+    width: 100%;
+    background-color: #CFDEF3;
+}
+
+button:hover {
+    background-color: #E0EAFC;
+}
+label{
+    font-weight: 600;
+    font-size:1.2rem ;
+}
